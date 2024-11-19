@@ -1,0 +1,12 @@
+{
+  "last_return_time": "2020-05-03",
+  "author_name": "Barney",
+  "area": "A",
+  "booked": "null",
+  "book_status": "borrowed",
+  "last_borrowed_time": "2020-05-07",
+  "book_id": "Q05",
+  "position": "A-1-D-2",
+  "book_name": "C++",
+  "last_warehouse-in_time": "2020-05-06"
+}

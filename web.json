@@ -1,0 +1,31 @@
+{
+  "query_id": "00000003",
+  "user_id": "stu190003",
+  "book_id": "B20190619003",
+  "book_name": "java program3",
+  "author_name": "Andrew3",
+  "last_borrowed_time": "2020-04-03",
+  "last_return_time": "2020-05-03",
+  "last_warehouse-in_time": "2020-03-01",
+  "book_status": "exceptional",
+  "area":"B",
+  "position": "B-1-C-2"
+}
+
+
+
+{
+  "query_id": "00000003",(Automatically generate)
+  "user_id": "stu190003", （Manual input）
+  "book_id": "B20190619003",  (Manual input）
+  "book_name": "java program",  （Automatically generate based on id）
+  "author_name": "Andrew",  (Manual input）
+  "last_borrowed_time": "yyyy-mm-dd",  （Time menu selection）
+  "last_return_time": "yyyy-mm-dd",    （Time menu selection）
+  "last_warehouse-in_time": "yyyy-mm-dd",  （Time menu selection）
+  "book_status": ["borrowed","available","exceptional"],
+  （borrowed means has been borrrowed, available means can be borrowed,
+   exceptional means return but not yet on bookshelves）
+  ”area“: ["A","B","C"],
+  "position": "A-1-C-2" （Zone A Bookshelf 1 Block C Floor 2）
+}

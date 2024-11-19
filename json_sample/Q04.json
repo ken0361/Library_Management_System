@@ -1,0 +1,12 @@
+{
+  "author_name": "Andrew",
+  "last_return_time": "2020-05-01",
+  "area": "D",
+  "booked": "null",
+  "book_status": "reserved",
+  "last_borrowed_time": "2020-04-04",
+  "book_id": "Q04",
+  "position": "C-1-C-2",
+  "book_name": "C",
+  "last_warehouse-in_time": "2020-05-01"
+}

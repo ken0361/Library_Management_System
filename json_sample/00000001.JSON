@@ -1,0 +1,13 @@
+{
+  "book_status": "available",
+  "query_id": "00000001",
+  "user_id": "stu190001",
+  "book_id": "B20190619001",
+  "book_name": "java program",
+  "author_name": "Andrew",
+  "last_borrowed_time": "2020-04-01",
+  "last_return_time": "2020-05-01",
+  "last_warehouse-in_time": "2020-05-01",
+  "area":"A",
+  "position": "A-1-C-2"
+}
