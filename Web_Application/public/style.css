@@ -1,0 +1,85 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+
+  background: url(background.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+h1 {
+  font-family: 'Kalam', cursive;
+  font-weight: bold;
+	font-size: 3rem;
+	color: #E2DBDB;
+  border-bottom: 2px solid pink;
+  border-right: 2px solid pink;
+  -moz-box-shadow: 4px 4px 5px #888888;
+  -ms-box-shadow: 4px 4px 5px #888888;
+  -webkit-box-shadow: 4px 4px 5px #888888;
+  -o-box-shadow: 4px 4px 5px #888888;
+  box-shadow: 4px 4px 5px #888888;
+}
+
+h3 {
+  text-align:right;
+  font-family: 'Kalam', cursive;
+  font-weight: bold;
+	font-size: 2rem;
+	color: #E2DBDB;
+  margin: 20px;
+}
+
+hr {
+	border-color: #FCB8D3;
+	border-width: 3px;
+	max-width: 65px;
+}
+
+a {
+    color: #E2DBDB;
+}
+
+a:hover
+{
+     color:#FCB8D3;
+     cursor:pointer;
+}
+
+nav{
+  font-family: 'Kalam', cursive;
+  color:#272425;
+  background:rgba(2,146,252,0.1);
+}
+
+.buffer{
+	height: 10rem;
+}
+
+.btn{
+  font-family: 'Kalam', cursive;
+  color:#272425;
+	font-weight: 700;
+	border-radius: 300px;
+	text-transform: uppercase;
+}
+
+.btn-primary {
+	background-color: #E2DBDB;
+	border-color: #E2DBDB;
+}
+
+.btn-primary:hover{
+  color:#272425;
+	background-color: #FCB8D3;
+	border-color: #FCB8D3;
+	border-width: 4px;
+}
+
+.btn-xl{
+	padding: 1rem 2rem 1rem 2rem;
+}

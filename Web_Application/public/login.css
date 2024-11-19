@@ -1,0 +1,113 @@
+/* Login page style.css */
+
+html,body{
+background: url(background.jpg) no-repeat center center fixed;
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
+font-family:'Kalam', cursive;
+}
+
+.container{
+height: 70%;
+align-content: center;
+}
+
+.card{
+height: 450px;
+margin-top: auto;
+margin-bottom: auto;
+width: 350px;
+background-color: rgba(0,0,0,0.5);
+}
+
+.card-header h3{
+color: white;
+}
+
+
+.input-group-prepend span{
+width: 50px;
+background-color: #FCB8D3;
+color: black;
+border:0 !important;
+}
+
+input:focus{
+outline: 0 0 0 0  !important;
+box-shadow: 0 0 0 0 !important;
+}
+
+
+.remember{
+color: white;
+}
+
+.remember input
+{
+width: 20px;
+height: 20px;
+margin-left: 15px;
+margin-right: 5px;
+}
+
+/* log in button */
+.login_btn{
+color: black;
+background-color: white;
+width: 100px;
+}
+
+.login_btn:hover{
+color: black;
+background-color: #FCB8D3;
+}
+
+.links{
+color: white;
+}
+
+.links a{
+margin-left: 4px;
+}
+
+/* navbar */
+nav{
+    font-family: 'Kalam', cursive;
+    color:#272425;
+    background:rgba(2,146,252,0.1);
+  }
+
+.nav-link {
+    color: #E2DBDB;
+}
+
+.nav-link:hover
+{
+     color:#FCB8D3;
+     cursor:pointer;
+}
+
+.navbar-brand {
+    color: #E2DBDB;
+}
+
+.navbar-brand:hover
+{
+     color:#FCB8D3;
+     cursor:pointer;
+}
+
+button {
+    background-color: rgba(55, 89, 238);
+    position: relative;
+    top: -45px;
+}
+
+.social-login {
+    text-align: center;
+}
+
+.social-login span{
+    color: white;
+}
